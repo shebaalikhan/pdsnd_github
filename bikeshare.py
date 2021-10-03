@@ -7,7 +7,6 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'washington': 'washington.csv' }
 
 MONTHS = ['all', 'january', 'february', 'march', 'april', 'may', 'june']
-
 DAYS = ['all', 'monday', 'tuesday','wednesday','thursday','friday','saturday', 'sunday']
 
 def get_input(input_type, input_str):
