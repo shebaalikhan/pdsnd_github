@@ -10,7 +10,7 @@ Github Project
 
 ### Description
 Describe what your project is about and what it does
-Learn version control with Github 
+Learn version control and commands with Github 
 ### Files used
 Include the files used
 bikeshare.py and README.md
