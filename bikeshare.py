@@ -38,7 +38,6 @@ def get_input(input_type, input_str):
         if invalid is True:
             print("\nInvalid %s, please try again!"%(input_type))
         
-
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
