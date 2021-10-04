@@ -10,10 +10,10 @@ Github Project
 
 ### Description
 Describe what your project is about and what it does
-
+Learn version control with Github 
 ### Files used
 Include the files used
-
+bikeshare.py and README.md
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://data.world/city-of-ny/5uei-swth
